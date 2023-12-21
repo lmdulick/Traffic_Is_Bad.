@@ -1,4 +1,6 @@
 # Traffic_Is_Bad.
+![tib5](https://github.com/lmdulick/Traffic_Is_Bad./assets/116673406/ca908afe-191b-4a1d-9e22-ebfb405527fc)
+
 Data Structures and Algorithms Final Group Project
 
 Authors: Lauren Dulick, Samantha Bennett, Trevor Gross
