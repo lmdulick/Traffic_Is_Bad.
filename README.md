@@ -5,6 +5,8 @@ Data Structures and Algorithms Final Group Project
 
 Authors: Lauren Dulick, Samantha Bennett, Trevor Gross
 
+E-Portfolio: https://ldulick17.wixsite.com/e-portfolio
+
 # About
 Welcome to Traffic is Bad!
 
